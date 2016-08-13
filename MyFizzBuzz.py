@@ -16,7 +16,7 @@ while answer == "Y":
             print x
 
     while True:
-        print "would you like play one more time?"
+        print "would you like to play one more time?"
         answer = raw_input()
         if answer not in "YN":
             print "You have to type Y or N only"
